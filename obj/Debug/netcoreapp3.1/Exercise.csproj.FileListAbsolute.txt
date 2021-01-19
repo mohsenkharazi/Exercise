@@ -18,3 +18,11 @@ C:\Users\Mohsen\source\repos\Exercise\obj\Debug\netcoreapp3.1\Exercise.RazorTarg
 C:\Users\Mohsen\source\repos\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
 C:\Users\Mohsen\source\repos\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
 C:\Users\Mohsen\source\repos\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache
+C:\Users\Mohsen\source\repos\Exercise\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mohsen\source\repos\Exercise\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mohsen\source\repos\Exercise\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mohsen\source\repos\Exercise\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mohsen\source\repos\Exercise\obj\Debug\netcoreapp3.1\Exercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mohsen\source\repos\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CopyComplete
+C:\Users\Mohsen\source\repos\Exercise\bin\Debug\netcoreapp3.1\Exercise.xml
+C:\Users\Mohsen\source\repos\Exercise\obj\Debug\netcoreapp3.1\Exercise.xml
